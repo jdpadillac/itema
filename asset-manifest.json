@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f073449.css",
-    "main.js": "/static/js/main.72c7ef2a.js",
+    "main.css": "/static/css/main.fcfc7662.css",
+    "main.js": "/static/js/main.cbcf076f.js",
     "static/js/453.27ccd8a7.chunk.js": "/static/js/453.27ccd8a7.chunk.js",
     "static/media/img2.jpg": "/static/media/img2.882d2f8005cc350aaa58.jpg",
     "static/media/img1.jpg": "/static/media/img1.280d555f13908aa20c18.jpg",
@@ -13,15 +13,20 @@
     "static/media/img5.jpg": "/static/media/img5.a529dd7e082bb2ccf42a.jpg",
     "static/media/img3.jpg": "/static/media/img3.222af2809dcc00bb38f6.jpg",
     "static/media/logo.jpg": "/static/media/logo.731e1847c78869439496.jpg",
-    "static/media/hidroituango.jpeg": "/static/media/hidroituango.ca8503eb5195eb3b9583.jpeg",
-    "static/media/candelaria.jpeg": "/static/media/candelaria.60a135155ccf7119a9ee.jpeg",
+    "static/media/losBlancos.png": "/static/media/losBlancos.d130efd3c5b8870fb49c.png",
+    "static/media/willard.png": "/static/media/willard.7fcacafc6f8b04d21f3d.png",
+    "static/media/zofia.jpg": "/static/media/zofia.c2221731f7249e4706cd.jpg",
+    "static/media/jacir.jpg": "/static/media/jacir.728475341871c39c2f7b.jpg",
+    "static/media/hada.jpg": "/static/media/hada.6489c82c57e1f40e9715.jpg",
+    "static/media/norton.jpg": "/static/media/norton.83562bbbdef8c8e614a0.jpg",
+    "static/media/insi.jpg": "/static/media/insi.33c7ee71167ead5d6a24.jpg",
     "index.html": "/index.html",
-    "main.5f073449.css.map": "/static/css/main.5f073449.css.map",
-    "main.72c7ef2a.js.map": "/static/js/main.72c7ef2a.js.map",
+    "main.fcfc7662.css.map": "/static/css/main.fcfc7662.css.map",
+    "main.cbcf076f.js.map": "/static/js/main.cbcf076f.js.map",
     "453.27ccd8a7.chunk.js.map": "/static/js/453.27ccd8a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f073449.css",
-    "static/js/main.72c7ef2a.js"
+    "static/css/main.fcfc7662.css",
+    "static/js/main.cbcf076f.js"
   ]
 }
